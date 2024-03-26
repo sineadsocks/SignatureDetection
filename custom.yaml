@@ -1,0 +1,9 @@
+path: \\Documents\\Dissertation\\yolov8
+train: 'train'
+val: 'valid'
+
+nc: 1
+
+#class name
+names: 
+  0 : 'DLSignature' 
